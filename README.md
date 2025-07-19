@@ -1,40 +1,36 @@
-# my-website
-এটা আমার প্রথম প্রচেষ্টা কেমন হয়েছে জানাবেন 
-<!DOCTYPE html>
+<!DOCTYPE html> 
 <html>
-<head>
-  <title>CSS Practice</title>
-  <style>
-    body {
-      background-color: #f0f8ff;
-      font-family: Arial, sans-serif;
-      text-align: center;
-    }
-
-    h1 {
-      color: #0099cc;
-    }
-
-    p {
-      color: #333333;
-      font-size: 18px;
-    }
-
-    .box {
-      background-color: #ffffff;
-      border: 2px solid #0099cc;
-      padding: 20px;
-      margin: 20px auto;
-      width: 300px;
-      border-radius: 10px;
-      box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    }
-  </style>
-</head>
-<body>
-  <h1>স্বাগতম CSS দুনিয়ায়!</h1>
-  <div class="box">
-    <p>এইটা আমার প্রথম CSS ডিজাইন।</p>
-  </div>
-</body>
+  <head>
+    <title> MECHANICAL DEPARTMEN </title>
+  </head>
+  <body>
+    <h1> Mechanical all sub </h1>
+    <p>
+      <ol>
+        <li> 1st semistar </li>
+        <li> 2nd semistar </li>
+        <li> 3rd semistar </li>
+        <li> 4th semistar </li>
+        <li> 5th semistar </li>
+        <li> 6th semistar </li>
+        <li> 7th semistar </li>
+        <li> 8th semistar </li>
+          
+      </ol>
+    </p>
+  </body>
+  <body>
+    <h2>Registration From </h2>
+    
+    <From action="submit.html" method="post">
+      <label>name:</label>
+      <input type="text" name="username"><br><br> 
+      <label> Email:</label>
+      <input type="text" email="email" ><br><br>
+      <label> password </label>
+      <input type="ttex "Password="ppassword"> <br><br>
+      <input type="submit" value="submit">
+      
+   </from>
+  </body>
 </html>
