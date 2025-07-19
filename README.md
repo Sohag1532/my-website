@@ -22,7 +22,7 @@
   <body>
     <h2>Registration From </h2>
     
-    <From action="submit.html" method="post">
+    <Form action="submit.html" method="post">
       <label>name:</label>
       <input type="text" name="username"><br><br> 
       <label> Email:</label>
@@ -31,6 +31,6 @@
       <input type="ttex "Password="ppassword"> <br><br>
       <input type="submit" value="submit">
       
-   </from>
+   </form>
   </body>
 </html>
